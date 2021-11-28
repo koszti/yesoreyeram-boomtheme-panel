@@ -6,7 +6,7 @@
   "skipDataQuery": true,
   "info": {
     "version": "0.2.0-alpha.6",
-    "updated": "2021-11-27",
+    "updated": "2021-11-28",
     "description": "Themes for Grafana",
     "author": {
       "name": "Sriramajeyam Sugumaran",
